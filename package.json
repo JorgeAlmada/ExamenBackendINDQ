@@ -1,0 +1,24 @@
+{
+  "name": "examenbackend",
+  "version": "1.0.0",
+  "description": "Examen BackEnd indQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Almada",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.1",
+    "path": "^0.12.7",
+    "sequelize": "^4.43.1",
+    "tedious": "^5.0.3"
+  }
+}
